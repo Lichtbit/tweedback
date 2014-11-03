@@ -25,5 +25,5 @@ Derzeit wird das System mit neuer Code-Basis weiterentwickelt. Weitere Informati
 
 ### Aufgaben
 
- * [Berechnungen](https://github.com/MGVmedia/tweedback/blob/master/doku/aufgaben.md)
+ * [Aufgabenliste](https://github.com/MGVmedia/tweedback/blob/master/doku/aufgaben.md)
 
